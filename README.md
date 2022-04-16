@@ -1,2 +1,0 @@
-# mulesoft-certification
-# mulesoft-certification
